@@ -82,3 +82,5 @@ Port scanning is commonly used by attackers to identify exposed services and pot
 ## Conclusion
 
 This investigation demonstrated the ability to capture, analyse, and interpret network traffic using Wireshark. Normal DNS, ICMP, TCP, and HTTPS communications were successfully identified, while simulated reconnaissance activity was detected and documented through packet-level analysis.
+
+![DNS Query Analysis](../dns-queries.png)
