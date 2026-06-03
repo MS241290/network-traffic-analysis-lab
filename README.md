@@ -5,6 +5,12 @@ Network Traffic Analysis Lab focused on packet inspection, protocol analysis, an
 
 This project demonstrates the investigation of normal network communications and anomalous activity through DNS, ICMP, TCP/TLS, and port scan analysis.
 
+## Investigation Report
+
+Full report available here:
+
+[Network Traffic Analysis Report](reports/network-traffic-analysis-report.md)
+
 ## Skills Demonstrated
 
 - Network Traffic Analysis
@@ -29,3 +35,27 @@ This project demonstrates the investigation of normal network communications and
 6. Detect and analyse TCP port scanning behaviour
 7. Document findings and security implications
 8. Produce investigation report
+
+## DNS Analysis
+
+![DNS Queries](dns-queries.png)
+
+## ICMP Analysis
+
+![ICMP Traffic](icmp-traffic.png)
+
+## HTTPS Traffic Analysis
+
+![HTTPS Traffic](https-traffic.png)
+
+## Port Scan Detection
+
+![Port Scan Detection](port-scan-detection.png)
+
+## Author
+
+Matt Stokes
+
+Aspiring SOC Analyst | IT Support Technician | Cybersecurity Enthusiast
+
+GitHub: https://github.com/MS241290
